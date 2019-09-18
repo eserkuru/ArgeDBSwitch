@@ -1,0 +1,14 @@
+C:\Users\eser.kuru\source\repos\ArgeDBSwitch\ArgeDBSwitch\bin\Debug\netcoreapp2.1\ArgeDBSwitch.deps.json
+C:\Users\eser.kuru\source\repos\ArgeDBSwitch\ArgeDBSwitch\bin\Debug\netcoreapp2.1\ArgeDBSwitch.runtimeconfig.json
+C:\Users\eser.kuru\source\repos\ArgeDBSwitch\ArgeDBSwitch\bin\Debug\netcoreapp2.1\ArgeDBSwitch.runtimeconfig.dev.json
+C:\Users\eser.kuru\source\repos\ArgeDBSwitch\ArgeDBSwitch\bin\Debug\netcoreapp2.1\ArgeDBSwitch.dll
+C:\Users\eser.kuru\source\repos\ArgeDBSwitch\ArgeDBSwitch\obj\Debug\netcoreapp2.1\ArgeDBSwitch.csprojAssemblyReference.cache
+C:\Users\eser.kuru\source\repos\ArgeDBSwitch\ArgeDBSwitch\obj\Debug\netcoreapp2.1\ArgeDBSwitch.csproj.CoreCompileInputs.cache
+C:\Users\eser.kuru\source\repos\ArgeDBSwitch\ArgeDBSwitch\obj\Debug\netcoreapp2.1\ArgeDBSwitch.AssemblyInfoInputs.cache
+C:\Users\eser.kuru\source\repos\ArgeDBSwitch\ArgeDBSwitch\obj\Debug\netcoreapp2.1\ArgeDBSwitch.AssemblyInfo.cs
+C:\Users\eser.kuru\source\repos\ArgeDBSwitch\ArgeDBSwitch\bin\Debug\netcoreapp2.1\ArgeDBSwitch.pdb
+C:\Users\eser.kuru\source\repos\ArgeDBSwitch\ArgeDBSwitch\obj\Debug\netcoreapp2.1\ArgeDBSwitch.dll
+C:\Users\eser.kuru\source\repos\ArgeDBSwitch\ArgeDBSwitch\obj\Debug\netcoreapp2.1\ArgeDBSwitch.pdb
+C:\Users\eser.kuru\source\repos\ArgeDBSwitch\ArgeDBSwitch\bin\Debug\netcoreapp2.1\DBSwitchService.dll
+C:\Users\eser.kuru\source\repos\ArgeDBSwitch\ArgeDBSwitch\bin\Debug\netcoreapp2.1\DBSwitchService.pdb
+C:\Users\eser.kuru\source\repos\ArgeDBSwitch\ArgeDBSwitch\obj\Debug\netcoreapp2.1\ArgeDBSwitch.csproj.CopyComplete

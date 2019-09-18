@@ -1,0 +1,9 @@
+C:\Users\eser.kuru\source\repos\ArgeDBSwitch\DBSwitchService\bin\Debug\netcoreapp2.1\DBSwitchService.deps.json
+C:\Users\eser.kuru\source\repos\ArgeDBSwitch\DBSwitchService\bin\Debug\netcoreapp2.1\DBSwitchService.dll
+C:\Users\eser.kuru\source\repos\ArgeDBSwitch\DBSwitchService\obj\Debug\netcoreapp2.1\DBSwitchService.csprojAssemblyReference.cache
+C:\Users\eser.kuru\source\repos\ArgeDBSwitch\DBSwitchService\obj\Debug\netcoreapp2.1\DBSwitchService.csproj.CoreCompileInputs.cache
+C:\Users\eser.kuru\source\repos\ArgeDBSwitch\DBSwitchService\obj\Debug\netcoreapp2.1\DBSwitchService.AssemblyInfoInputs.cache
+C:\Users\eser.kuru\source\repos\ArgeDBSwitch\DBSwitchService\obj\Debug\netcoreapp2.1\DBSwitchService.AssemblyInfo.cs
+C:\Users\eser.kuru\source\repos\ArgeDBSwitch\DBSwitchService\bin\Debug\netcoreapp2.1\DBSwitchService.pdb
+C:\Users\eser.kuru\source\repos\ArgeDBSwitch\DBSwitchService\obj\Debug\netcoreapp2.1\DBSwitchService.dll
+C:\Users\eser.kuru\source\repos\ArgeDBSwitch\DBSwitchService\obj\Debug\netcoreapp2.1\DBSwitchService.pdb
